@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/classes-90919b3c9d7c748d771561d7120a3637e46ea61f.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/classes-3cde35ad17a6c0206d123e0acdeb06ee1237c87e.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/classes-10bf2e803871b9237af05d5a05a40998cb051d1d.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/classes-5de73aa3f07114b27079497b0f94e9d3a3f2c384.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/classes-382ec0a177d77bc30b7afd4908d0ea0ab7086425.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-2e5597d89c7b8b301da5a1feb565c879c1faf4a2.jar" />
+    </item>
+    <item
+        jar="/Users/jand6944/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/jand6944/Documents/Workspace/AdBannerSample/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-49e7fc61afdb7dc8f4c0ae3b7e2894e1002f658d.jar" />
+    </item>
+
+</items>
